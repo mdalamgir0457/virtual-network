@@ -1,5 +1,3 @@
-# virtual-network
-vitual network 
 reated Resource Groups using for_each
 ✅ Deployed Multiple Virtual Networks
 ✅ Configured Address Spaces
